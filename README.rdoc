@@ -1,5 +1,7 @@
 == README
 
+[![Build Status](https://snap-ci.com/marcelotheodoro/sample-rails-app/branch/master/build_image)](https://snap-ci.com/marcelotheodoro/sample-rails-app/branch/master)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
